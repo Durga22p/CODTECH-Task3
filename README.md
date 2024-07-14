@@ -40,7 +40,48 @@ Split the data for training and testing to evaluate model performance on unseen 
 Experiment with different models and fine-tune their hyperparameters to achieve optimal performance. Explore various sampling techniques to potentially improve model results.
 ## Model Evaluation:
 Evaluate models using appropriate metrics considering the imbalanced data. Since identifying fraudulent transactions is more crucial, choose metrics that reflect this business goal.
+
+
 ![Screenshot (104)](https://github.com/user-attachments/assets/46fcc31d-e01b-4700-9153-0dc12dd22c42)
+
+
+![Screenshot (105)](https://github.com/user-attachments/assets/b7dff683-b127-4c13-908e-f173c44d857e)
+
+
+![Screenshot (106)](https://github.com/user-attachments/assets/644923e9-6d9c-4bd2-a6a6-2cf6b3a6cb2a)
+
+
+![Screenshot (107)](https://github.com/user-attachments/assets/0971e86e-37ee-4c9c-b3f0-8fbf1dd16d63)
+
+
+![Screenshot (108)](https://github.com/user-attachments/assets/951a1576-c8a1-4fcb-87e8-f92ec28d28cf)
+
+
+![Screenshot (109)](https://github.com/user-attachments/assets/87efd75a-79bb-4918-aedd-4bf6e6c84e03)
+
+
+![Screenshot (110)](https://github.com/user-attachments/assets/e458c845-ccf4-4187-9b65-e3666c5a95f4)
+
+
+![Screenshot (111)](https://github.com/user-attachments/assets/bf6730b1-710b-4f92-8773-dcd6bf76a655)
+
+
+![Screenshot (112)](https://github.com/user-attachments/assets/a682e93d-b985-450b-82d6-3a04ded7fecf)
+
+
+![Screenshot (113)](https://github.com/user-attachments/assets/160ead8e-fa25-4095-ad79-4532651cafcf)
+
+
+![Screenshot (114)](https://github.com/user-attachments/assets/31be9a6b-67e9-427d-9bf8-8319c10e4589)
+
+
+![Screenshot (115)](https://github.com/user-attachments/assets/0b9e89d4-ba9f-4562-a398-57180a676663)
+
+
+
+
+
+
 
 
 
