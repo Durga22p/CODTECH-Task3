@@ -40,3 +40,7 @@ Split the data for training and testing to evaluate model performance on unseen 
 Experiment with different models and fine-tune their hyperparameters to achieve optimal performance. Explore various sampling techniques to potentially improve model results.
 ## Model Evaluation:
 Evaluate models using appropriate metrics considering the imbalanced data. Since identifying fraudulent transactions is more crucial, choose metrics that reflect this business goal.
+![Screenshot (104)](https://github.com/user-attachments/assets/46fcc31d-e01b-4700-9153-0dc12dd22c42)
+
+
+
