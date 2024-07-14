@@ -1,4 +1,4 @@
-**Name:**DURGA P
+Name:DURGA P
 Company:CODTECH IT SOLUTIONS
 ID:CT4ML3665
 Domain:Machine Learning
