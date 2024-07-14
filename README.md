@@ -19,10 +19,11 @@ For banks, retaining customers is paramount. Banking fraud, however, jeopardizes
 ## Understanding and Defining Fraud
 Credit card fraud involves any unauthorized use of a cardholder's information for financial gain. Skimming, the most common method, duplicates magnetic strip data. Other forms of fraud include:
 
-    Manipulation/alteration of genuine cards
-    Creation of counterfeit cards
-    Stolen/lost credit card use
-    Fraudulent telemarketing
+Manipulation/alteration of genuine cards
+Creation of counterfeit cards
+Stolen/lost credit card use
+Fraudulent telemarketing
+
 ## Data Dictionary
 The dataset contains credit card transactions made by European cardholders over two days in September 2013. With 492 fraudulent transactions out of 284,807, the data is highly imbalanced (positive class: 0.172%). Principal Component Analysis (PCA) has been applied to features (V1, V2, ..., V28) to preserve confidentiality. Only features 'time' (seconds elapsed from the first transaction) and 'amount' remain in their original form. The 'class' feature indicates fraud (1) or not (0).
 
