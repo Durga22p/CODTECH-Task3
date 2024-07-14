@@ -19,23 +19,23 @@ For banks, retaining customers is paramount. Banking fraud, however, jeopardizes
 ## Understanding and Defining Fraud
 Credit card fraud involves any unauthorized use of a cardholder's information for financial gain. Skimming, the most common method, duplicates magnetic strip data. Other forms of fraud include:
 
-   # Manipulation/alteration of genuine cards
-   # Creation of counterfeit cards
-   # Stolen/lost credit card use
-   # Fraudulent telemarketing
+    Manipulation/alteration of genuine cards
+    Creation of counterfeit cards
+    Stolen/lost credit card use
+    Fraudulent telemarketing
 ## Data Dictionary
 The dataset contains credit card transactions made by European cardholders over two days in September 2013. With 492 fraudulent transactions out of 284,807, the data is highly imbalanced (positive class: 0.172%). Principal Component Analysis (PCA) has been applied to features (V1, V2, ..., V28) to preserve confidentiality. Only features 'time' (seconds elapsed from the first transaction) and 'amount' remain in their original form. The 'class' feature indicates fraud (1) or not (0).
 
 ## Project Pipeline
 The project follows these four steps:
 
-# Data Understanding:
+## Data Understanding:
 Load and explore the data to identify relevant features for model building.
-# Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 Perform univariate and bivariate analyses to understand data distribution and relationships. Feature transformations might be necessary, but due to Gaussian variables, Z-scaling may not be required. However, address any skewness to avoid issues during model building.
-# Train/Test Split:
+## Train/Test Split:
 Split the data for training and testing to evaluate model performance on unseen data. K-fold cross-validation is recommended for balanced representation of the minority class in test folds. Choose an appropriate k value.
-# Model Building/Hyperparameter Tuning: 
+## Model Building/Hyperparameter Tuning: 
 Experiment with different models and fine-tune their hyperparameters to achieve optimal performance. Explore various sampling techniques to potentially improve model results.
-# Model Evaluation:
+## Model Evaluation:
 Evaluate models using appropriate metrics considering the imbalanced data. Since identifying fraudulent transactions is more crucial, choose metrics that reflect this business goal.
