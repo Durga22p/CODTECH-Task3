@@ -1,7 +1,11 @@
 **Name:** DURGA P
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT4ML3665
+
 **Domain:** Machine Learning
+
 **Duration:** July 1,2024 to August 1,2024
 
 This project aims to predict fraudulent credit card transactions using machine learning models. We'll analyze customer-level data from a research collaboration between Worldline and the Machine Learning Group University Libre de Bruxelles.
